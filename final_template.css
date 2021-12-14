@@ -17,12 +17,21 @@ button {
 }
 .fixed-bottom {
 	margin-left: 10px;
-	margin-top: 30px;
-	padding: 5px;
+	margin-top: 10px;
+	padding: 0.5px;
 	text-align: center;
 }
 
 img {
 	width: 350px;
 
+}
+
+.figure-caption {
+
+color: black;
+}
+
+i {
+	color: darkgray;
 }
